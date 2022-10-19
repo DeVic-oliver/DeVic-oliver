@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, welcome to my profile check some of info about me right below!
+
+<p>I am a brazilian developer from Aracaju city the Sergipe's capital and I like the game development enviroment so I'm developing my own micro-games using Unity engine and C#</p>
+<p>I'm always searching for good content to improve my skills and my software quality.</p>
+
+
 
 <!--
 **DeVic-oliver/DeVic-oliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
