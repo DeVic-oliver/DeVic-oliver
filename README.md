@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my profile check some of info about me right below!
+### Hi there 👋, welcome to my profile! Check some of info about me right below!
 
 <p>I am a brazilian developer from Aracaju city the Sergipe's capital and I like the game development enviroment so I'm developing my own micro-games using Unity engine and C#</p>
 <p>I'm always searching for good content to improve my skills and my software quality.</p>
